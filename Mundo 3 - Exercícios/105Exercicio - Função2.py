@@ -1,0 +1,2 @@
+#FFaça um programa que tenha uma função notas() que pode receber varias notas de alunos e vai retornar um dicionario com as seguintes informações:
+#A quantidade de notas, a maior nota, a menor nota, a media da turma, a situação(opcional). Adicione também as docstrings da função
